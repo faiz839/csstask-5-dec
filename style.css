@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height:100%;
+    width: 100%;
+    background-color: black;
+     display: flex;
+}
+
+.child2{
+    display: flex;
+}
+.child1{
+    display: flex;
+    flex-direction: column;
+    background-color: beige;
+    height: auto;
+}
+
+.card1{
+    height: 150px;
+    width: 140px;
+    display: flex;
+}
+.box1 img{
+    height: 150px;
+    width: 190px;
+}
+
